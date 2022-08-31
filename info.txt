@@ -1,0 +1,15 @@
+subscribe get, caqnd este trimisa o comanda operation:inquire, trebuie publish la response-get
+
+
+cand primesc pe async-get, op on sau of. trebuie publush pe response-async-get
+
+
+cand pronesc aplicatia:	publish pe gateway/register
+
+apoi subscribem la gateway/discover
+
+cand primesc op:sdiscover, publish la gateway/register
+
+
+
+(get, async-get)

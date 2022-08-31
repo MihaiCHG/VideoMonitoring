@@ -1,0 +1,45 @@
+[{
+	"name":"fall",
+	"cod": "001",
+	"description":"The patient is falling"
+},
+{
+	"name":"drink",
+	"cod": "002",
+	"description":"The patient drink water"
+},
+{
+	"name":"up",
+	"cod": "003",
+	"description":"The patient got up from the bed"
+},
+{
+	"name":"eat",
+	"cod": "004",
+	"description":"The patient eat some food"
+},
+{
+	"name":"lay",
+	"cod": "005",
+	"description":"The patient is lying down"
+},
+{
+	"name":"sit",
+	"cod": "006",
+	"description":"The patient sits down"
+},
+{
+	"name":"stand",
+	"cod": "007",
+	"description":"The patient is standing"
+},
+{
+	"name":"hold",
+	"cod": "008",
+	"description":"The patient holds something"
+},
+{
+	"name":"other",
+	"cod": "009",
+	"description":"The patient has another activity"
+}]
